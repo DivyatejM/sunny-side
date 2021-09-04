@@ -1,8 +1,14 @@
 ## sunnyside
 <br><br>
-A fully responsive website for a digital marketing company.<br>
+A fully responsive website for a digital marketing company called Sunnyside agency landing page.<br>
 Used rich and bright colors.
-It utilized CSS structures like flexbox and grid.<br><br>
+It utilized CSS structures like flexbox and grid.<br><br> 
+It contains:<br>
+1. Navigation Bar<br>
+2. Main Section<br>
+3. Testimonials<br>
+4. Image Gallery<br>
+5. Footer Section<br><br>I took inspiration from the Sunnyside Agency Landing Page from FRONTEND MENTOR.<br><br>
 Preview:<br><br>
 <img width="942" alt="s1" src="https://user-images.githubusercontent.com/76866090/131719247-dd150f7a-d2a0-4f1b-90e0-dbab9b8a2baf.png">
 <br><hr><br>
